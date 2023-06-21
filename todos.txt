@@ -4,3 +4,4 @@ make soup
 make pizza
 Clean the code
 Make a new todo
+Master Python
