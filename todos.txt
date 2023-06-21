@@ -3,7 +3,6 @@ Fix the bug
 Make Soup
 Make Pizza
 Clean the code
-Make a new todo
 Master Python
 Clean the program
 Buy the painting
