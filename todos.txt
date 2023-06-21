@@ -1,7 +1,9 @@
 Clean the error
 Fix the bug
-make soup
-make pizza
+Make Soup
+Make Pizza
 Clean the code
 Make a new todo
 Master Python
+Clean the program
+Buy the painting
