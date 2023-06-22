@@ -1,8 +1,6 @@
-Clean the error
-Fix the bug
-Make Soup
-Make Pizza
 Clean the code
 Master Python
 Clean the program
 Buy the painting
+Improve the app
+Efficient issues
